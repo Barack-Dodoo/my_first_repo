@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav{
+    height: 30px;
+    width: 100%;
+    color: lightgray;
+}
+.nav ul li{
+    list-style: none;
+    display: inline-block;
+}
